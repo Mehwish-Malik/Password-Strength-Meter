@@ -5,7 +5,7 @@ import re
 st.set_page_config(page_title="Password Strength Meter", page_icon="🔐")
 
 # App title and description
-st.title("🔐 Project 02: Password Strength Meter")
+st.title("🔐  Password Strength Meter")
 st.markdown("""
 🔐 **Welcome to the Ultimate Strength Checker!**  
 🛠️ Use this simple tool to test how strong your password is.  
